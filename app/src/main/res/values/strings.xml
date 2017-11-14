@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SlideFragmentsApp</string>
+    <string name="main_content">Main Content</string>
+    <string name="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="photo_credits"><b>Golden Gate Sunset</b> by <b>Romain Guy</b></string>
+    <string name="address"><b>Address:</b> Golden Gate Bridge, San Francisco, CA 94129</string>
+    <string name="elevation"><b>Elevation:</b>  220\' (67 m)</string>
+    <string name="height"><b>Height:</b>  746\' (227 m)</string>
+    <string name="construction"><b>Construction started:</b>  1933</string>
+    <string name="span"><b>Longest span:</b>  4,200\' (1,280 m)</string>
+    <string name="length"><b>Total length:</b>  8,980\' (2,737 m)</string>
+
+    <string name="bridge">Golden Gate Bridge</string>
+</resources>

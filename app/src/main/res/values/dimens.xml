@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="slide_fragment_horizontal_margin">50dp</dimen>
+    <dimen name="text_vertical_margin">18dp</dimen>
+    <dimen name="text_horizontal_margin">10dp</dimen>
+    <dimen name="dimen48">48dp</dimen>
+    <dimen name="dimen32">32dp</dimen>
+    <dimen name="dimen16">16dp</dimen>
+</resources>
